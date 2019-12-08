@@ -1,0 +1,21 @@
+{
+    "ConnectionStrings": {
+        "ApplicationDbContext": "Server=(localdb)\\mssqllocaldb;Database=aspnet-Demo-CCA9F722-FC0B-4105-9DA9-DFB317124230;Trusted_Connection=True;MultipleActiveResultSets=true",
+        "StatisticsAppDbContext": "Server=(localdb)\\mssqllocaldb;Database=aspnet-Demo-CCA9F722-FC0B-4105-9DA9-DFB317124230;Trusted_Connection=True;MultipleActiveResultSets=true"
+    },
+    "Logging": {
+        "LogLevel": {
+            "Default": "Information",
+            "Microsoft": "Warning",
+            "Microsoft.Hosting.Lifetime": "Information"
+        }
+    },
+    "AllowedHosts": "*",
+
+    "GoogleAnalytics": {
+        "TrackingCode": "UA-12345678-9"
+    },
+    "Segment": {
+        "ApiKey": "56f7fggjsGGyishfuknvyfGFDfg3643"
+    }
+}
